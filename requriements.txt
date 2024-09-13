@@ -9,3 +9,4 @@ streamlit-camera-input-live==0.2.0
 moviepy==2.0.0.dev2
 opencv-python==4.9.0.80
 openvino-dev==2024.3.0
+opencv-contrib-python==4.10.0.84
